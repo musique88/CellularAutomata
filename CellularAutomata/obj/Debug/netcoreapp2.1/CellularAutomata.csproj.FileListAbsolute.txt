@@ -1,0 +1,11 @@
+D:\Users\201844437\source\repos\CellularAutomata\CellularAutomata\bin\Debug\netcoreapp2.1\CellularAutomata.deps.json
+D:\Users\201844437\source\repos\CellularAutomata\CellularAutomata\bin\Debug\netcoreapp2.1\CellularAutomata.runtimeconfig.json
+D:\Users\201844437\source\repos\CellularAutomata\CellularAutomata\bin\Debug\netcoreapp2.1\CellularAutomata.runtimeconfig.dev.json
+D:\Users\201844437\source\repos\CellularAutomata\CellularAutomata\bin\Debug\netcoreapp2.1\CellularAutomata.dll
+D:\Users\201844437\source\repos\CellularAutomata\CellularAutomata\bin\Debug\netcoreapp2.1\CellularAutomata.pdb
+D:\Users\201844437\source\repos\CellularAutomata\CellularAutomata\obj\Debug\netcoreapp2.1\CellularAutomata.csprojAssemblyReference.cache
+D:\Users\201844437\source\repos\CellularAutomata\CellularAutomata\obj\Debug\netcoreapp2.1\CellularAutomata.csproj.CoreCompileInputs.cache
+D:\Users\201844437\source\repos\CellularAutomata\CellularAutomata\obj\Debug\netcoreapp2.1\CellularAutomata.AssemblyInfoInputs.cache
+D:\Users\201844437\source\repos\CellularAutomata\CellularAutomata\obj\Debug\netcoreapp2.1\CellularAutomata.AssemblyInfo.cs
+D:\Users\201844437\source\repos\CellularAutomata\CellularAutomata\obj\Debug\netcoreapp2.1\CellularAutomata.dll
+D:\Users\201844437\source\repos\CellularAutomata\CellularAutomata\obj\Debug\netcoreapp2.1\CellularAutomata.pdb
